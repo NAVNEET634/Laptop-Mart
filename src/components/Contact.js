@@ -18,13 +18,13 @@ const Contact = () => {
             <form>
                 <div class="mb-3">
                   <label for="exampleForm" class="form-label">Full Name</label>
-                  <input type="text" class="form-control" id="exampleForm" placeholder="Deepak kumar" />
+                  <input type="text" class="form-control" id="exampleForm" placeholder="Navneet Kumar" />
                   
                 </div>
                 <div class="mb-3">
                   <label for="exampleFormControlInput1" class="form-label">Emailaddress</label>
                   <input type="email" class="form-control" id="exampleFormControlInput1" 
-                  placeholder="deepakkumar261198@gmail.com"/>
+                  placeholder="navneetkumar92042@gmail.com"/>
                 </div>
                 <div class="mb-3">
                   <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
